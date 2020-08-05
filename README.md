@@ -1,1 +1,1 @@
-# python_training
+# python_machine_learning
